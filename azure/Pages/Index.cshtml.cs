@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Runtime.InteropServices;
 
-namespace yolo4dazr1.Pages;
+namespace togelmantap.Pages;
 
 public class IndexModel : PageModel
 {

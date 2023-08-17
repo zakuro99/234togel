@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace yolo4dazr1.Pages;
+namespace togelmantap.Pages;
 
 public class PrivacyModel : PageModel
 {
